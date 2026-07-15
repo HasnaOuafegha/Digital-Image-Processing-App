@@ -244,7 +244,7 @@ This project demonstrates practical implementation of:
 
 **Hasna Ouafegha**
 
-Master's Student in Data Analytics and Artificial Intelligence (SDIA)
+Master's Student in Data Analytics and Artificial Intelligence
 
 Faculty of Sciences Ibn Zohr – Agadir, Morocco
 
